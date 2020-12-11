@@ -3,7 +3,7 @@
 ## How to use?
 
 ```
-git clone ""
+git clone "https://github.com/hassanRsiddiqi/movingWrolds.git"
 npm install
 npm run start
 ```
